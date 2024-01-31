@@ -1,15 +1,17 @@
 Hola,  mi nombre es *Joel*.
-### Intereses
+
+## ${{\color{lightgreen}Intereses}}$
+
 ---
 * Estoy interesado en la **informatica**, con preferencia en el Hardware del ordenador.
 Me gustaria en el futuro poder trabajar de algo relacionado con ella, pero de mientras estoy estudiando un ciclo formativo de Informática que te enseña lo principal de ella.
 Al acabar el curso me gustaria seguir aprendiendo o mediante un curso o tambien tendira  la opcion de  acceder a un ciclo formativo Superior, y luego poder llegar a la universidad.
 
-### Hobbies
+## ${{\color{red}Hobbies}}$
 ---
 * Suelo jugar bsatante a videojuegos, siendo los shooters mis favoritos. En tema deporter suelo practicar futbol, pero me gustan todos los deportes. Tambien suelo quedar los findes de semana con mis amigos.
 
-### Planes
+## ${{\color{blue}Futuro}}$
 ---
  * Para el futuro me veo trabajando con algo relacionado con la informatica, pero no sabria decir el que o donde estaria trabajando.
   No tengo tan seguro que quiero trabajar. Pero aún queda tiempo y mientras estudie seguramente lo descubra
@@ -21,7 +23,7 @@ Tras la presentación, ya puedo manejar un poco el md. Esto lo utilizaremos en c
  lo hecho en clase. Ahora tras esto documentaremos lo hecho luego de esta sesion de proxmox. Si no sabes lo que es
 te lo explico
 ~~~
-### Proxmox 
+###  ${{\color{yellow}Proxmox}}$
 
 - Es un en torno de virtualizacion de servidores con codigo abierto. Con su distribucion en GNU/Linux
   basada en Debian. Esta permite el despliegue y la gestión de las máquinas virtuales y contenedores
